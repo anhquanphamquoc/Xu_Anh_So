@@ -1,0 +1,5 @@
+Flask dùng để tạo một ứng dụng để có thể sử dụng html để hoạt động
+
+sử dụng symspell để kiểm tra chính tả
+
+ngram_path được dùng như là một cuốn từ điển 

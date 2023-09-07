@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Web App</title>
+</head>
+<body>
+    <h1>Ứng dụng Web OCR</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*">
+        <button type="submit">Nhận dạng chữ</button>
+    </form>
+    <h2>Kết quả:</h2>
+    <p>{{ recognized_text }}</p>
+</body>
+</html>

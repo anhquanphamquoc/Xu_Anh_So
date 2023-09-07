@@ -1,0 +1,6 @@
+Flask
+opencv-python
+Pillow
+easyocr
+symspellpy
+numpy
